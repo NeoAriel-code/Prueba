@@ -1,0 +1,78 @@
+/* Dispositivo de Escritorio */
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 0%;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+
+ nav{
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 0;
+    text-align: center;
+}
+
+section{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.algo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: turquoise;
+    padding: 10px 0;
+    text-align: left;
+}
+
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(255, 235, 205, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+
+form{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 0;
+    text-align: center;
+}
+h1 {
+    color: aquamarine;
+}
+
+p {
+    color: rgb(37, 0, 204);
+}
+
+.inv{
+    display: none;
+}
+
+.errorGeneral{
+    padding-top: 2px;
+    color: red;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.success{
+    display: none;
+    color: green;
+
+}
+
+/* table, th, td {
+    border:1px solid black;
+  } */
